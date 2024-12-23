@@ -1,0 +1,7 @@
+for this project I used firebaseauth, react-native-vector-icons/FontAwesome, @expo/vector-icons, and for the navigation: react-navigation/bottom-tabs
+in order to use my project please run the following commands:
+npm install
+npm install @react-navigation/native @react-navigation/bottom-tabs react-native-screens react-native-safe-area-context react-native-gesture-handler react-native-reanimated react-native-stack
+npm install firebase
+npm install @expo/vector-icons
+and thats it (:
